@@ -11,7 +11,7 @@ html {
 }
 .container {
   margin: 0 auto;
-  width: 8rem;
+  width: 90%;
 }
 header {
   height: 100vh;
@@ -27,8 +27,8 @@ header {
 }
 
 nav {
-  font-size: 20px;
-  font-weight: 700;
+  font-size: 1.2rem;
+  font-weight: 2em;
   display: flex;
   justify-content: space-between;
   /* background-color: green; */
@@ -37,13 +37,14 @@ nav {
 }
 
 .header-container {
-  width: 150vh;
+  width: 100%;
   position: absolute;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
   /* background-color: violet; */
   /* text-align: center; */
+  display: block;
 }
 .header-container-inner {
   width: 50%;
@@ -85,7 +86,7 @@ section {
   background-color: rgba(15, 16, 15, 0.036);
 }
 img {
-  height: 100px;
+  height: 50%;
   border-radius: 8px;
 }
 
