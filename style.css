@@ -15,15 +15,16 @@ html {
 }
 header {
   height: 100vh;
-  position: relative;
   background-image: linear-gradient(
       rgba(32, 12, 12, 0.7),
       rgba(32, 32, 32, 0.7)
     ),
     url(book2.jpg);
-
+  display: block;
+  background-repeat: no-repeat;
   background-size: cover;
   color: rgba(255, 248, 220, 0.92);
+  background-position: center;
 }
 
 nav {
@@ -110,3 +111,4 @@ body {
   align-items: center;
   gap: 86px;
 } */
+
