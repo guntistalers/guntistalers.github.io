@@ -7,10 +7,11 @@
 html {
   font-family: "Rubik", sans-serif;
   color: #495057;
+  font-size: 1.5rem;
 }
 .container {
   margin: 0 auto;
-  width: 1200px;
+  width: 8rem;
 }
 header {
   height: 100vh;
@@ -36,7 +37,7 @@ nav {
 }
 
 .header-container {
-  width: 1200px;
+  width: 150vh;
   position: absolute;
   left: 50%;
   top: 50%;
@@ -49,8 +50,8 @@ nav {
   /* background-color: yellow; */
 }
 h1 {
-  font-size: 52px;
-  margin-bottom: 32px;
+  font-size: 2.6rem;
+  margin-bottom: 2rem;
   line-height: 1.05;
 }
 p {
@@ -74,8 +75,8 @@ p {
 }
 
 h2 {
-  font-size: 44px;
-  margin-bottom: 48px;
+  font-size: 2.72rem;
+  margin-bottom: 3 rem;
 }
 h3 {
 }
