@@ -5,7 +5,7 @@
 }
 html,
 body {
-  max-width: 1300px;
+  max-width: 1200px;
   margin: auto;
   font-family: "Rubik", sans-serif;
   font-size: 18px;
@@ -19,7 +19,7 @@ html {
  
 }
 .main {
-  height: 40rem;
+  height: 100%;
   padding-top: 1rem;
   background-image: linear-gradient(
       rgba(32, 12, 12, 0.7),
